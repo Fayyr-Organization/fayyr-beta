@@ -6,7 +6,10 @@ of great causes.
 
 ## Requirements
 
-To participate, you need a white-listed NEAR account on testnet. ???We will supply one? or make one and send us the id?
+To participate, you need an allow-listed NEAR account on testnet. If you want to be a 'donor' or an 'artist' (see [roles](#roles) below), 
+you can send us your account id after you've created it by [email](mailto:beta@fayyr.com) or on our [discord server](https://discord.gg/c822MA4v). 
+To create an account, navigate to https://wallet.testnet.near.org and 
+click on "Create Account". If you want to be a 'charity', let us know and we'll send you an enabled account.
 
 ## Help and reporting issues
 
@@ -16,7 +19,7 @@ right and tell us what the problem is.
 We've also set up a discord server (???) so you can talk to each other and us to quickly answer questions you might have.  Hopefully
 the site is pretty self-explanatory, but no doubt we missed *something* :).
 
-## Additional roles
+## <a name="roles">Additional roles</a>
 
 There are three main roles in our site, and we'd love people to try them all out (only one at a time, though).
 
@@ -26,13 +29,14 @@ There are three main roles in our site, and we'd love people to try them all out
 
 - Charity: This is a bit more of a 'management' role. You can be your favorite charity (actually we'll assign you one), and approve art to be sold in your name by artists.  You can also mint art for yourself! Of course, you can also watch the money role in.
 
-If you'd like to try out one of those other roles, simply let us know on our discord.
+If you'd like to try out one of those other roles, simply let us know on our discord. https://discord.gg/c822MA4v
 
 ## Rewards
 
 Of course, we couldn't bulletproof our website without you. So, we've set up a rewards system to help us thank you for
 your time and hard work.  We've tried to keep it simple and -- Fayyr (I couldn't resist) -- while gathering useful feedback
-to make our launch a successful one.
+to make our launch a successful one. It works like this:
+ ?????
 
 ## Notes to self
 - what, if anything, are we doing for receipts in the beta?
