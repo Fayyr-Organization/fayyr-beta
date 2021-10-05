@@ -1,4 +1,4 @@
-# Welcome to the Fayyr beta test!
+# Welcome to the Fayyr Beta test!
 
 Welcome to the Fayyr beta testing overview document! This document is designed to get you ready to participate in the 
 testing of our new charity-focussed website, where we are working with charities and artists to sell NFTs in support
@@ -7,21 +7,22 @@ of great causes.
 ## Requirements
 
 To participate, you need an allow-listed NEAR account on testnet. If you want to be a 'donor' or an 'artist' (see [roles](#roles) below), 
-you can send us your account id after you've created it by [email](mailto:beta@fayyr.com) or on our [discord server](https://discord.gg/c822MA4v). 
+you can send us your account id after you've created it: by [email](mailto:beta@fayyr.com) or on our [discord server](https://discord.gg/c822MA4v). 
 To create an account, navigate to https://wallet.testnet.near.org and 
-click on "Create Account". If you want to be a 'charity', let us know and we'll send you an enabled account.
+click on `Create Account`. If you want to be a 'charity', let us know and we'll send you an enabled account.
 
 ## Help and reporting issues
 
-We'd love it if you report any issues using github issues. Just click the 'issues' tab above and click 'New Issue' on the 
+We'd love it if you report any issues using github issues. Just click the `Issues` tab above and click `New Issue` on the 
 right and tell us what the problem is.
 
-We've also set up a discord server (???) so you can talk to each other and us to quickly answer questions you might have.  Hopefully
-the site is pretty self-explanatory, but no doubt we missed *something* :).
+We've also set up a [discord server](https://discord.gg/c822MA4v) so you can talk to each other and us to quickly answer questions you might have.  Hopefully
+the site is pretty self-explanatory, but no doubt we missed *something* :).  If either of these don't seem appropriate, you can [email](mailto:beta@fayyr.com) us at
+beta@fayyr.com.
 
-## <a name="roles">Additional roles</a>
+## <a name="roles">Roles</a>
 
-There are three main roles in our site, and we'd love people to try them all out (only one at a time, though).
+There are three main roles on our site, and we'd love people to try them all out (only one at a time, though).
 
 - Donor: A user who can go on the site and buy NFTs to support charities. They can also sell NFTs, resulting in royalties for charities and artists.
 
@@ -29,7 +30,7 @@ There are three main roles in our site, and we'd love people to try them all out
 
 - Charity: This is a bit more of a 'management' role. You can be your favorite charity (actually we'll assign you one), and approve art to be sold in your name by artists.  You can also mint art for yourself! Of course, you can also watch the money role in.
 
-If you'd like to try out one of those other roles, simply let us know on our discord. https://discord.gg/c822MA4v
+If you'd like to try out one of those other roles, simply let us know on our [discord server](https://discord.gg/c822MA4v) or via [email](mailto:beta@fayyr.com).
 
 ## Rewards
 
