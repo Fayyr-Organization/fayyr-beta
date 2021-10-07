@@ -29,7 +29,8 @@ Your total reward will be determined as follows:
 2. 0.2 NEAR for *each* submitted, relevant, distinct and novel issue 
 3. 0.1 for *each* role that you have tried out
 
-By participating, you're agreeing that we'll be the final arbiters of all rewards. It'll be Fayyr. Promise!
+By participating, you're agreeing that we'll be the final arbiters of all rewards. It'll be Fayyr. Promise! (If you don't have a NEAR mainnet
+account (to get the rewards), let us know a PayPal account in the form and we'll convert it to fiat currency and send it that way.)
 
 ## Help and reporting issues
 
