@@ -19,7 +19,7 @@ click on `Create Account`. If you want to be a 'charity', let us know and we'll 
 
 Of course, we couldn't bulletproof our website without you. So, we've set up a rewards system to help us thank you for
 your time and hard work.  We've tried to keep it simple and -- Fayyr (I couldn't resist) -- while gathering useful feedback
-to make our launch a successful one. In order to collect your rewards, just fill out this [simple form](). We'll evaluate
+to make our launch a successful one. In order to collect your rewards, just fill out this [simple form](https://docs.google.com/forms/d/e/1FAIpQLSdpf8IdaUn1Yp9TDgMOr_1DwH_OBGYhkSuSPwgKurvGwSd2tA/viewform?usp=sf_link). We'll evaluate
 your answers and send you some *real* NEAR!
 
 Your total reward will be determined as follows:
