@@ -1,3 +1,7 @@
+CURRENT SITE STATUS: <span style="color:green">Up</span>
+
+CURRENT BETA STATUS: <span style="color:green">Open</span>
+
 # Welcome to the Fayyr Beta test!
 
 Welcome to the Fayyr beta testing overview document! This document is designed to get you ready to participate in the 
@@ -10,6 +14,22 @@ To participate, you need an allow-listed NEAR account on testnet. If you want to
 you can send us your account id after you've created it: by [email](mailto:beta@fayyr.com) or on our [discord server](https://discord.gg/c822MA4v). 
 To create an account, navigate to https://wallet.testnet.near.org and 
 click on `Create Account`. If you want to be a 'charity', let us know and we'll send you an enabled account.
+
+## Rewards
+
+Of course, we couldn't bulletproof our website without you. So, we've set up a rewards system to help us thank you for
+your time and hard work.  We've tried to keep it simple and -- Fayyr (I couldn't resist) -- while gathering useful feedback
+to make our launch a successful one. In order to collect your rewards, just fill out this [simple form](). We'll evaluate
+your answers and send you some *real* NEAR!
+
+Your total reward will be determined as follows:
+
+1. 5 NEAR for the top 20 accounts as measured by overall contribution (sales, purchases, minting, viewing, etc.)
+1. 0.5 NEAR for providing a useful, complete form
+2. 0.2 NEAR for *each* submitted, relevant, distinct and novel issue 
+3. 0.1 for *each* role that you have tried out
+
+By participating, you're agreeing that we'll be the final arbiters of all rewards. It'll be Fayyr. Promise!
 
 ## Help and reporting issues
 
@@ -26,18 +46,8 @@ There are three main roles on our site, and we'd love people to try them all out
 
 - Donor: A user who can go on the site and buy NFTs to support charities. They can also sell NFTs, resulting in royalties for charities and artists.
 
-- Artist: An artist is like a user, but they can also mint art for their favorite charities. Pick an image or animated gif that you like, and upload it using ipfs (instructions on the website). Then send it to the charity for approval and see it go live, get sold, and support the charity. You will also get a royalty with every sale, so everyone wins!
+- Artist: An artist is like a user, but they can also submit art for their favorite charities. Pick an image or animated gif that you like, and upload it using ipfs (instructions on the website). Then send it to the charity on the approvals tab and see it go live, get sold, and support the charity. You will also get a royalty with every sale, so everyone wins!
 
-- Charity: This is a bit more of a 'management' role. You can be your favorite charity (actually we'll assign you one), and approve art to be sold in your name by artists.  You can also mint art for yourself! Of course, you can also watch the money role in.
+- Charity: This is a bit more of a 'management' role. You can be your favorite charity (actually we'll assign you one), and approve art to be sold in your name by artists.  You can also mint art for yourself! Of course, you can also watch the money roll in.
 
-If you'd like to try out one of those other roles, simply let us know on our [discord server](https://discord.gg/c822MA4v) or via [email](mailto:beta@fayyr.com).
-
-## Rewards
-
-Of course, we couldn't bulletproof our website without you. So, we've set up a rewards system to help us thank you for
-your time and hard work.  We've tried to keep it simple and -- Fayyr (I couldn't resist) -- while gathering useful feedback
-to make our launch a successful one. It works like this:
- ?????
-
-## Notes to self
-- what, if anything, are we doing for receipts in the beta?
+The donor is the default role, but if you'd like to be an artist or charity, simply let us know on our [discord server](https://discord.gg/c822MA4v) or via [email](mailto:beta@fayyr.com).
