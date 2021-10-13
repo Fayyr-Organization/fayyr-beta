@@ -24,10 +24,9 @@ your answers and send you some *real* NEAR!
 
 Your total reward will be determined as follows:
 
-1. 5 NEAR for the top 20 accounts as measured by overall contribution
+1. 5 NEAR for the top 20 accounts as measured by overall contribution. Be sure to try out multiple roles and report any bugs you find.  
 1. 0.5 NEAR for providing a useful, complete form
 2. 0.1 NEAR for *each* submitted, relevant, distinct and novel issue 
-3. 0.5 for *each* role that you have tried out
 
 By participating, you're agreeing that we'll be the final arbiters of all rewards. It'll be Fayyr. Promise! (If you don't have a NEAR mainnet
 account (to get the rewards), let us know a PayPal account in the form and we'll convert it to fiat currency and send it that way.)
