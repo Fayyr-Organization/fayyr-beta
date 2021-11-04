@@ -11,7 +11,7 @@ of great causes.
 ## Requirements
 
 To participate, you need an allow-listed NEAR account on testnet. If you want to be a 'donor' or an 'artist' (see [roles](#roles) below), 
-you can send us your account id after you've created it: by [email](mailto:beta@fayyr.com) or on our [discord server](https://discord.gg/c822MA4v). 
+you can send us your account id after you've created it: by [email](mailto:beta@fayyr.com) or on our [discord server](https://discord.gg/MG8JeeuwYV). 
 To create an account, navigate to https://wallet.testnet.near.org and 
 click on `Create Account`. If you want to be a 'charity', let us know and we'll send you an enabled account.
 
@@ -36,7 +36,7 @@ account (to get the rewards), let us know a PayPal account in the form and we'll
 We'd love it if you report any issues using github issues. Just click the `Issues` tab above and click `New Issue` on the 
 right and tell us what the problem is.
 
-We've also set up a [discord server](https://discord.gg/c822MA4v) so you can talk to each other and us to quickly answer questions you might have.  Hopefully
+We've also set up a [discord server](https://discord.gg/MG8JeeuwYV) so you can talk to each other and us to quickly answer questions you might have.  Hopefully
 the site is pretty self-explanatory, but no doubt we missed *something* :).  If either of these don't seem appropriate, you can [email](mailto:beta@fayyr.com) us at
 beta@fayyr.com.
 
@@ -50,4 +50,4 @@ There are three main roles on our site, and we'd love people to try them all out
 
 - Charity: This is a bit more of a 'management' role. You can be your favorite charity (actually we'll assign you one), and approve art to be sold in your name by artists.  You can also mint art for yourself! Of course, you can also watch the money roll in.
 
-The donor is the default role, but if you'd like to be an artist or charity, simply let us know on our [discord server](https://discord.gg/c822MA4v) or via [email](mailto:beta@fayyr.com).
+The donor is the default role, but if you'd like to be an artist or charity, simply let us know on our [discord server](https://discord.gg/MG8JeeuwYV) or via [email](mailto:beta@fayyr.com).
