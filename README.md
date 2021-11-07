@@ -16,6 +16,10 @@ you can send us your account id after you've created it: by [email](mailto:beta@
 To create an account, navigate to https://wallet.testnet.near.org and click on `Create Account`. If you want to be a 'charity', let us know and we'll 
 send you an enabled account.
 
+In summary, to join, do the following:
+1. Create a near testnet account (https://wallet.testnet.near.org)
+2. Send your account id to us either by email (beta@fayyr.com) or discord (https://discord.gg/MG8JeeuwYV).
+
 ## Rewards
 
 Of course, we couldn't bulletproof our website without you. So, we've set up a rewards system to help us thank you for
