@@ -18,7 +18,8 @@ send you an enabled account.
 
 In summary, to join, do the following:
 1. Create a near testnet account (https://wallet.testnet.near.org)
-2. Send your account id to us either by email (beta@fayyr.com) or discord (https://discord.gg/MG8JeeuwYV).
+2. Send your account id to us either by email (beta@fayyr.com) or discord (https://discord.gg/MG8JeeuwYV), and tell us if you want to be a donor or an artist.
+3. If you want to be a charity, as us for a charity account and we'll send you one.
 
 ## Rewards
 
