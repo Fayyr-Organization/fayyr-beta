@@ -2,6 +2,8 @@ CURRENT SITE STATUS: <span style="color:green">Up</span>
 
 CURRENT BETA STATUS: <span style="color:green">Open</span>
 
+Our beta indexer will be undergoing maintenance for the better part of today, so new pieces will not show up as minted, and newly listed items won't be visible until that is finished. All other site features will still be functional. Sorry for the inconvenience!
+
 # Welcome to the Fayyr Beta test!
 
 Welcome to the Fayyr beta testing overview document! This document is designed to get you ready to participate in the 
