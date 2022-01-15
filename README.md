@@ -1,6 +1,6 @@
-CURRENT SITE STATUS: <span style="color:green">Up</span>
+CURRENT SITE STATUS: <span style="color:red">Offline</span>
 
-CURRENT BETA STATUS: <span style="color:green">Open</span>
+CURRENT BETA STATUS: <span style="color:red">Closed</span>
 
 # Welcome to the Fayyr Beta test!
 
